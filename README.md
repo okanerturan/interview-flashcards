@@ -2,7 +2,7 @@
 
 A web application designed to help developers prepare for Java technical interviews through an adaptive, engagement-driven flashcard system.
 
-[![CI](https://github.com/okturan/interview-flashcards/actions/workflows/ci.yml/badge.svg)](https://github.com/okturan/interview-flashcards/actions/workflows/ci.yml)
+[![CI](https://github.com/okanerturan/interview-flashcards/actions/workflows/ci.yml/badge.svg)](https://github.com/okanerturan/interview-flashcards/actions/workflows/ci.yml)
 [![Live demo](https://img.shields.io/badge/demo-java--flashcards.pages.dev-2563eb)](https://java-flashcards.pages.dev/)
 
 ![JavaMaster Dashboard](docs/screenshot-main.jpg)
@@ -71,7 +71,7 @@ Java Basics • OOP • Collections • Concurrency • JVM Internals • Java 8
 
 1. Clone the repository
 ```bash
-git clone https://github.com/okturan/interview-flashcards.git
+git clone https://github.com/okanerturan/interview-flashcards.git
 cd interview-flashcards
 ```
 
